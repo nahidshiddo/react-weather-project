@@ -17,7 +17,7 @@ export default function App() {
             className="footer"
           >
             {" "}
-            open sourced on github
+            open-sourced on github.
           </a>
         </footer>
       </div>
